@@ -1,0 +1,16 @@
+{
+  "name": "promise-weather-app",
+  "version": "1.0.0",
+  "description": "\"Promises in Weathar App\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Kumar Pulijala",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "request": "^2.73.0",
+    "yargs": "^14.2.0"
+  }
+}

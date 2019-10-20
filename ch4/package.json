@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Invokes Weather App",
+  "main": "weather-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Kumar Pulijala",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.73.0",
+    "require": "^2.4.20"
+  }
+}

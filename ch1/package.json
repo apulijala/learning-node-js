@@ -1,0 +1,15 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "Making package using node",
+  "main": "app.js",
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Kumar Pulijala",
+  "license": "ISC"
+}

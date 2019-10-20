@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Get the weather from the address",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Kumar Pulijala",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.73.0",
+    "yargs": "^14.2.0"
+  }
+}
